@@ -30,7 +30,7 @@ Her hafta ödevinizi göndermek için şu adımları izleyin:
 
 ### Adım 1: Dosyalarınızı Hazırlayın
 Ödev dosyanızı (Jupyter Notebook veya .py) size ait klasöre kopyalayın:
-`02_Mentiler/adiniz_soyadiniz/hafta_01/odev.ipynb`
+`01_Mentiler/adiniz_soyadiniz/hafta_01/odev.ipynb`
 
 ### Adım 2: Değişiklikleri Kaydedin
 ```bash
@@ -52,6 +52,6 @@ git push origin main
 
 ---
 > [!IMPORTANT]
-> **DİKKAT:** Sadece kendi klasörünüzün (`02_Mentiler/adiniz_soyadiniz`) içindeki dosyalarda değişiklik yapın. Diğer dosyaları değiştirmemeye özen gösterin.
+> **DİKKAT:** Sadece kendi klasörünüzün (`01_Mentiler/adiniz_soyadiniz`) içindeki dosyalarda değişiklik yapın. Diğer dosyaları değiştirmemeye özen gösterin.
 
 Anlamadığınız bir yer olursa mentorunuza sormaktan çekinmeyin! Başarılar.
