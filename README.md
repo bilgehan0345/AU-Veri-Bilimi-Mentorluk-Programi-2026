@@ -1,4 +1,4 @@
-# AU Veri Bilimi Akademisi 2026
+# AU Veri Bilimi Mentorluk Programı
 
 Bu depo, 2026 yılı Veri Bilimi ve Makine Öğrenmesi Mentorluk Programı'nın tüm kaynaklarını, müfredatını ve menti ödevlerini barındırmaktadır.
 
